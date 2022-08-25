@@ -1,6 +1,6 @@
 # Mobile App Development Assignment
 ## What is this?
-This is a university assignment, where I was tasked with creating a mobile app (using Android Studio) with multiple fragments and persistent storage.
+This is a university assignment where I was tasked with creating a mobile app (using Android Studio) with multiple fragments and persistent storage.
 
 ## I can't find the code
 The kotlin is buried in Mobile-App-Development-Assignment/yhproject/app/src/main/java/android/cs/stir/ac/uk/yhproject/
