@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lemintex/AndroidStudioProjects/yhproject/app/src/main/res/layout/activity_layout_linear.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Lemintex/AndroidStudioProjects/yhproject/app/src/main/res/layout/activity_main.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/Lemintex/AndroidStudioProjects/yhproject/app/src/main/res/layout/page1_fragment.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/Lemintex/AndroidStudioProjects/yhproject/app/src/main/res/layout/page2_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/Lemintex/AndroidStudioProjects/yhproject/app/src/main/res/layout/page3_fragment.xml" value="0.27631578947368424" />
+        <entry key="..\:/Users/Lemintex/AndroidStudioProjects/yhproject/app/src/main/res/layout/transaction_layout.xml" value="0.4456140350877193" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
